@@ -1,11 +1,6 @@
 {
-	"chainId": 101,
-    "address": "7HLaG8gQTEzYyPW7MRFKidVXYhZsAtD7awj8GatSh2E",
-    "symbol": "GOT",
-    "name": "Gothic",
-    "decimals": 0,
-    "logoURI": "https://raw.githubusercontent.com/trafalgarius/crypto/master/logo.png",
-    "tags": [
-    	"social-token"
-    ]
+	"name": "Gothic",
+	"symbol": "GOT",
+	"description": "Game Coin",
+	"logoURI": "https://raw.githubusercontent.com/trafalgarius/crypto/master/logo.png"
 }
